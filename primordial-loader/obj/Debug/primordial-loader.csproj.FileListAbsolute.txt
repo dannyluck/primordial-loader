@@ -1,0 +1,8 @@
+C:\Users\piter\source\repos\primordial-loader\primordial-loader\obj\Debug\primordial-loader.csproj.AssemblyReference.cache
+C:\Users\piter\source\repos\primordial-loader\primordial-loader\obj\Debug\primordial-loader.csproj.CoreCompileInputs.cache
+C:\Users\piter\source\repos\primordial-loader\primordial-loader\bin\Debug\primordial.ico
+C:\Users\piter\source\repos\primordial-loader\primordial-loader\bin\Debug\primordial-loader.exe.config
+C:\Users\piter\source\repos\primordial-loader\primordial-loader\bin\Debug\primordial-loader.exe
+C:\Users\piter\source\repos\primordial-loader\primordial-loader\bin\Debug\primordial-loader.pdb
+C:\Users\piter\source\repos\primordial-loader\primordial-loader\obj\Debug\primordial-loader.exe
+C:\Users\piter\source\repos\primordial-loader\primordial-loader\obj\Debug\primordial-loader.pdb
